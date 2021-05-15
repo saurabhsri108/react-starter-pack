@@ -8,7 +8,12 @@ Personal React ViteJS based start-up setup
 npm update
 ```
 
-2. Run the app
+2. Setup your own git repo after removing the cloned repo remote origin:
+```cmd
+git remote remove origin
+```
+
+3. Run the app
 ```npm
 npm run dev
 ```
