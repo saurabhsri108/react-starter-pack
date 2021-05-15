@@ -1,2 +1,2 @@
-# react-starter-pack
+# React Starter Pack
 Personal React ViteJS based start-up setup
